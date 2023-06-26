@@ -13,6 +13,7 @@
 - ganapa
 - ravi
 - mushika
+- ganapa_pipeline
 
 <hr>
 ### About
